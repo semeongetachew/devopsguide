@@ -39,6 +39,8 @@ by Niall Murphy, Betsy Beyer, Chris Jones, Jennifer Petoff
 
 - https://www.youtube.com/watch?v=MnyvgFDh-kw
 
+- https://www.youtube.com/channel/UCtuXekfqj-paqsxtqVNCC2A/featured
+
 ## Support
 
 Please [open an issue](https://github.com/fraction/readme-boilerplate/issues/new) for support.
