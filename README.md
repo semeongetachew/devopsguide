@@ -13,7 +13,6 @@ The purpose of this repo is to aid new beginners in learning more about the vari
     <td align="center"><a href="https://github.com/semeongetachew/jenkinstut"><img src="https://djaodjin.com/static/img/djaodjin/blog/jenkins-256x256.png" width="80px;" height="75px;" alt="ansible"/><br /><b>Jenkins</b></a></td>
     <td align="center"><a href="https://github.com/semeongetachew/puppettut"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcToZtjFxDLE4MrOe3TueAJVCSDSmSyzB0mFiXCMG_7xufdLD7nF&usqp=CAU" width="80x;" height="75px;" alt="Network"/><br /><b>Puppet</b></a><br /></td>
     <td align="center"><a href="https://github.com/semeongetachew/powershelltut"><img src="https://devblogs.microsoft.com/powershell/wp-content/uploads/sites/30/2018/09/Powershell_256.png" width="75x;" height="75px;" alt="Linux"/><br /><b>Powershell</b></a><br /></td>
-    <td align="center"><a href="#terraform"><img src="images/terraform.png" width="70px;" height="75px;" alt="Terraform"/><br /><b>Terraform</b></a><br /><sub></td>
     <td align="center"><a href="#"><img src="https://assets.cloud.im/prod/ux1/images/logos/azure/azure-2x.png" width="70px;" height="75px;" alt="Azure"/><br /><b>Azure</b></a><br /></td>
   </tr>
  
