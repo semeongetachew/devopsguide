@@ -34,7 +34,7 @@ The purpose of this repo is to aid new beginners in learning more about the vari
 - https://devopscube.com
 - https://www.docker.com/blog
 - https://aws.amazon.com/blogs/devops/ 
-
+- https://devops.com/category/blogs/
 
 
 ## Books
